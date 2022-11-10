@@ -1,5 +1,5 @@
 {% set name = "pgzip" %}
-{% set version = "0.3.2" %}
+{% set version = "0.3.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 49ad5b0b848cb08967076cbdc55d2179bd77551966b993704c6deaaab9eed480
+  sha256: ef56449039bc6e88558e46fe6bb11e3faaeef445d3985a9fb286795ff842c480
 
 build:
   number: 0
