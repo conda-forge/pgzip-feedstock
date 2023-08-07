@@ -1,11 +1,11 @@
-About pgzip
-===========
+About pgzip-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pgzip-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/pgzip/pgzip
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pgzip-feedstock/blob/main/LICENSE.txt)
 
 Summary: A multi-threading implement of Python gzip module.
 
