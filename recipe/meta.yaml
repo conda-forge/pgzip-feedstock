@@ -43,4 +43,5 @@ about:
     Theoretically, the compression and decompression speed should be linear with the number of cores available. However, I/O and a language's general performance limits the compression and decompression speed in practice.
 extra:
   recipe-maintainers:
+    - timhughes
     - haorenfsa
