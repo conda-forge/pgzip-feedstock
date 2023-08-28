@@ -155,4 +155,5 @@ Feedstock Maintainers
 =====================
 
 * [@haorenfsa](https://github.com/haorenfsa/)
+* [@timhughes](https://github.com/timhughes/)
 
