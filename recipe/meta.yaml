@@ -17,6 +17,7 @@ build:
 requirements:
   host:
     - pip
+    - hatch
     - python {{ python_min }}
   run:
     - python >={{ python_min }}
